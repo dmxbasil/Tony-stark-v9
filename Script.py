@@ -3,7 +3,7 @@ class script(object):
  ᴍy ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>,\n ɪᴀᴍ ᴀ ᴩᴜʙʟɪᴄ ʙᴏᴛ ꜱᴏ yᴏᴜ ᴄᴀɴ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴩ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ...</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 ʜᴇʟᴩ ᴄᴏᴍᴍᴀɴᴅꜱ """
-    ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ : {}
+    ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ ᴛᴏɴy ꜱᴛᴀʀᴋ ᴠ9
 ⌨︎ ᴄʀᴇᴀᴛᴏʀ ➪ <a href=https://t.me/basildmx>𝐁𝐚𝐬𝐢𝐥 𝐃𝐌𝐗</a>
 ❍ ᴜᴩᴅᴀᴛᴇꜱ ➪ <a href=https://t.me/dmx_bot>𝐃𝐌𝐗 𝐁𝐨𝐭𝐬</a>
 ❍ ʟɪʙʀᴀʀy ➪ 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎
